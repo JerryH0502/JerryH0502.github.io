@@ -36,3 +36,8 @@ I’m a first-year undergraduate student majoring in Mathematics at the School o
 
 # 💻 Internships
 -None
+
+# ☎️ Contact Information
+- Address: No.96 Jinzhai Road, Hefei, Anhui, China 230026
+- Email: jieyanghu@mail.ustc.edu.cn
+- QQ Number: 2174214603
