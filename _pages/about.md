@@ -30,7 +30,13 @@ I’m a first-year undergraduate student majoring in Mathematics at the School o
 - 2023.09-Now. School of Gifted Young at the University of Science and Technology of China.
 
 # 💻 Resources
-- None
+
+**Mathematics**
+
+**Physics**
+
+**Others**
+
 
 # ☎️ Contact Information
 - Address: No.96 Jinzhai Road, Hefei, Anhui, China 230026
