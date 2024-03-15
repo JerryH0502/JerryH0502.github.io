@@ -19,9 +19,6 @@ redirect_from:
 
 I’m a first-year undergraduate student majoring in Mathematics at the School of Gifted Young, University of Science and Technology of China(USTC).
 
-# 🔥 News
-- None
-
 # 📝 Publications 
 - None
 
@@ -31,9 +28,6 @@ I’m a first-year undergraduate student majoring in Mathematics at the School o
 
 # 📖 Educations
 - 2023.09-Now. School of Gifted Young at the University of Science and Technology of China.
-
-# 💬 Invited Talks
-- None
 
 # 💻 Resources
 - None
