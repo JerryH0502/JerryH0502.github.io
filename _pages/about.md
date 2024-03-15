@@ -23,11 +23,12 @@ I’m a first-year undergraduate student majoring in Mathematics at the School o
 - None
 
 # 📝 Publications 
--None
+- None
 
 # 🎖 Honors and Awards
 - 2021 National High School Mathematics Joint Competition (Zhejiang Division), First Prize(2021年全国高中数学联合竞赛浙江赛区一等奖)
 - 2023 New Student Scholarship Gold Award(2023年新生奖学金金奖)
+
 # 📖 Educations
 - 2023.09-Now. School of Gifted Young at the University of Science and Technology of China.
 
