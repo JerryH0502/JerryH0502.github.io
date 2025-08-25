@@ -1,0 +1,27 @@
+title: H. Jieyang
+email: jieyanghu@mail.ustc.edu.cn
+description: >-
+  Undergraduate (3rd year) in Mathematics · School of the Gifted Young, USTC.
+url: "https://JerryH0502.github.io"
+baseurl: ""
+theme: minima
+
+# Pages shown in the header navigation
+header_pages:
+  - publications.md
+  - honors.md
+  - education.md
+  - resources.md
+  - contact.md
+
+minima:
+  skin: dark
+  social_links:
+    - { "platform": "github", "user_url": "https://github.com/JerryH0502" }
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+  input: GFM
