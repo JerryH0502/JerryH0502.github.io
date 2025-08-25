@@ -8,7 +8,7 @@ permalink: /resources/
 
 ## TA
 
-**2025 Fall, Mathematical Analysis(B1)**
+**2025 Fall, Mathematical Analysis (B1)**
 
 ## Others
 
