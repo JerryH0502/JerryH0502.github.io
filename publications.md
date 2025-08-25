@@ -6,4 +6,4 @@ permalink: /publications/
 
 ## Publications
 
-_None at the moment._
+-
