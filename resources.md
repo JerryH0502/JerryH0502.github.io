@@ -12,7 +12,7 @@ I organized this webinar together with Jianan Zhang in the summer of 2025.
 
 _Material_ 
 
--[Statistical Mechanics of Lattice Systems: A Concrete Mathematical Introduction](lectures/webinar2025/Statistical_Mechanics_of_Lattice_Systems.pdf), *Sacha Friedli & Yvan Velenik*
+- [Statistical Mechanics of Lattice Systems: A Concrete Mathematical Introduction](lectures/webinar2025/Statistical_Mechanics_of_Lattice_Systems.pdf), *Sacha Friedli & Yvan Velenik*
 
 | Week | Chap. | Sections to be covered | Speaker | Lecture Notes |
 |------|-------|-------------------------|---------------|---------------|
