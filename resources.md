@@ -32,6 +32,4 @@ _Material_
 **Column of Pinnacle in Hanhai（《瀚海之巅》）**  
 - 2025 — A brief introduction to random graphs [PDF](hanhai/rg.pdf)  
 
-**Course Paper**
-
 
