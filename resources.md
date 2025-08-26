@@ -30,9 +30,7 @@ _Material_
 ## Others
 
 **Column of Pinnacle in Hanhai（《瀚海之巅》）**  
-- 2023-5 — <a href="#" title="Replace # with your link">link</a>  
-- 2024-1 — <a href="#" title="Replace # with your link">link</a>  
-- 2024-2 — <a href="#" title="Replace # with your link">link</a>
+- 2025 — A brief introduction to random graphs [PDF](hanhai/rg.pdf)  
 
 **Course Paper**
 
