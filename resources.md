@@ -11,7 +11,7 @@ permalink: /resources/
 I organized this webinar together with Jianan Zhang in the summer of 2025. 
 
 | Week | Chap. | Sections to be covered | Speaker | Lecture Notes |
-|------|-------|-------------------------|---------|---------------|
+|------|-------|-------------------------|---------------|---------------|
 | 1 | 3 | 3.1-3.5 | Jianan Zhang (张嘉楠) | [PDF](lectures/webinar2025/week1.pdf) |
 | 2 | 3 | 3.6, 3.8, 3.7.1 | Jieyang Hu (胡洁洋) | [PDF](lectures/webinar2025/week2.pdf) |
 | 3 | 3 | 3.7.2-3.7.4 | Wenyan Yang (杨文颜) | [PDF](lectures/webinar2025/week3.pdf) |
