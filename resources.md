@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-## Seminar
+## Seminar I Organized
 
 **Statistical Mechanics of Lattice Systems** 
 
