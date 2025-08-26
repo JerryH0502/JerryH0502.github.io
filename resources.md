@@ -16,7 +16,7 @@ I organized this webinar together with Jianan Zhang in the summer of 2025.
 | 2 | 3 | 3.6, 3.8, 3.7.1 | Jieyang Hu (胡洁洋) | [PDF](lectures/webinar2025/week2.pdf) |
 | 3 | 3 | 3.7.2-3.7.4 | Wenyan Yang (杨文颜) | [PDF](lectures/webinar2025/week3.pdf) |
 | 4 | 3 | 3.10.1, 3.10.2, 3.10.6 | Sihao Kong (孔思皓) | [PDF](lectures/webinar2025/week4.pdf) |
-| 5 | 8 | 8.1, 8.2 | Zhiqi Zhao (赵祉齐, University of Oxford) | [PDF](lectures/webinar2025/week5.pdf) |
+| 5 | 8 | 8.1, 8.2 | Zhiqi Zhao (赵祉齐, University of Oxford) | - |
 | 6 | 8 | 8.3, 8.4 | Zhezhen Zhao (赵喆祯) | [PDF](lectures/webinar2025/week6.pdf) |
 
 ## TA
