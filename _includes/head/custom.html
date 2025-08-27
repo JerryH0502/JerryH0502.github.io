@@ -1,19 +1,25 @@
-<!-- 基本 favicon（带缓存破坏参数 v=1，可改数字更新） -->
-<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico?v=1' | relative_url }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png?v=1' | relative_url }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png?v=1' | relative_url }}">
+<!-- ======================== -->
+<!--      Favicons 设置       -->
+<!-- ======================== -->
+
+<!-- 基本 favicon（带缓存破坏参数 v=3，可改数字更新） -->
+<link rel="icon" type="image/x-icon" href="{{ '/favicon.ico?v=3' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png?v=3' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png?v=3' | relative_url }}">
 
 <!-- iOS 桌面图标 -->
-<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png?v=1' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png?v=3' | relative_url }}">
 
-<!-- 关键：Safari 固定标签图标（单色 SVG） -->
-<link rel="mask-icon" href="{{ '/safari-pinned-tab.svg?v=1' | relative_url }}" color="#0b67ff">
+<!-- Safari 固定标签图标（单色 SVG） -->
+<link rel="mask-icon" href="{{ '/safari-pinned-tab.svg?v=3' | relative_url }}" color="#0b67ff">
 
 <!-- 可选：PWA manifest -->
-<link rel="manifest" href="{{ '/site.webmanifest?v=1' | relative_url }}">
+<link rel="manifest" href="{{ '/site.webmanifest?v=3' | relative_url }}">
 <meta name="theme-color" content="#0b67ff">
 
-<link rel="icon" href="{{ "/assets/img/favicon.png" | relative_url }}" type="image/png">
+<!-- ======================== -->
+<!--  MathJax 数学公式支持   -->
+<!-- ======================== -->
 
 <script>
 window.MathJax = {
@@ -27,8 +33,10 @@ window.MathJax = {
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<!-- Font Awesome（免费版 CDN）-->
+<!-- ======================== -->
+<!--   Font Awesome 图标库   -->
+<!-- ======================== -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<!-- Academicons（学术图标：Google Scholar、ORCID、ResearchGate 等）-->
+<!-- Academicons（学术图标：Google Scholar、ORCID、ResearchGate 等） -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
