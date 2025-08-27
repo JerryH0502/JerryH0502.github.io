@@ -15,7 +15,7 @@ header_pages:
   - contact.md
 
 minima:
-  skin: dark
+  skin: auto
   social_links:
     - { "platform": "github", "user_url": "https://github.com/JerryH0502" }
 
