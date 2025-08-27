@@ -29,6 +29,8 @@ _Material_
 
 ## Others
 
+Brownian motion seminar 25.3.8 lecture notes [PDF](resources/3.8notes.pdf)
+
 **Column of Pinnacle in Hanhai（《瀚海之巅》）**  
 - 2025 — A brief introduction to random graphs [PDF](hanhai/rg.pdf)  
 
