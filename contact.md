@@ -73,29 +73,3 @@ permalink: /contact/
 }
 </style>
 
-<script>
-/* 轻量防爬：运行时拼邮箱；并提供复制与 mailto */
-(function(){
-  const span = document.getElementById('email');
-  if(!span) return;
-  const user = span.dataset.user, host = span.dataset.host;
-  const addr = user + '@' + host;
-  span.textContent = addr;
-  const mailto = document.getElementById('mailto-link');
-  if (mailto) mailto.href = 'mailto:' + addr;
-
-  const copyBtn = document.getElementById('copy-email');
-  if (copyBtn) {
-    copyBtn.addEventListener('click', async () => {
-      try {
-        await navigator.clipboard.writeText(addr);
-        copyBtn.textContent = 'Copied!';
-        setTimeout(()=>copyBtn.textContent='Copy', 1400);
-      } catch(e) {
-        copyBtn.textContent = 'Press ⌘/Ctrl+C';
-        setTimeout(()=>copyBtn.textContent='Copy', 2000);
-      }
-    });
-  }
-})();
-</script>
