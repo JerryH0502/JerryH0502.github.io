@@ -21,9 +21,7 @@ permalink: /contact/
     <li>
       <i class="fa fa-envelope" aria-hidden="true"></i>
       <span class="label">Email</span>
-      <span id="email" class="mono" data-user="jieyanghu" data-host="mail.ustc.edu.cn">[protected]</span>
-      <button id="copy-email" class="ghost-btn" aria-label="Copy email">Copy</button>
-      <a id="mailto-link" class="ghost-btn" aria-label="Open mail" href="#" rel="nofollow">Mail</a>
+      <a href="mailto:jieyanghu@mail.ustc.edu.cn">jieyanghu@mail.ustc.edu.cn</a>
     </li>
 
     <li>
@@ -52,3 +50,18 @@ permalink: /contact/
     -->
   </ul>
 </section>
+
+<style>
+/* 样式适配暗色模式 */
+.contact { margin-top: 0.5rem; }
+.contact-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .75rem; }
+.contact-list li { display: grid; grid-template-columns: 1.25rem auto 1fr; align-items: center; gap: .6rem; }
+.contact-list i { opacity: .9; }
+.contact-list .label { font-weight: 600; min-width: 5.5rem; color: var(--muted, #666); }
+.contact-list a { text-decoration: none; border-bottom: 1px dashed rgba(127,127,127,.35); }
+.contact-list a:hover { border-bottom-style: solid; }
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+@media (max-width: 560px) {
+  .contact-list li { grid-template-columns: 1.25rem 5.5rem 1fr; align-items: start; }
+}
+</style>
