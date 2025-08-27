@@ -52,24 +52,3 @@ permalink: /contact/
     -->
   </ul>
 </section>
-
-<style>
-/* 轻量样式：跟随站点的暗/亮色（尽量用变量，若无变量也能正常显示） */
-.contact { margin-top: 0.5rem; }
-.contact-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .75rem; }
-.contact-list li { display: grid; grid-template-columns: 1.25rem auto 1fr; align-items: center; gap: .6rem; }
-.contact-list i { opacity: .9; }
-.contact-list .label { font-weight: 600; min-width: 5.5rem; color: var(--muted, #666); }
-.contact-list a { text-decoration: none; border-bottom: 1px dashed rgba(127,127,127,.35); }
-.contact-list a:hover { border-bottom-style: solid; }
-.mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
-.ghost-btn {
-  margin-left: .4rem; padding: .25rem .5rem; font-size: .8rem; border-radius: .6rem;
-  border: 1px solid rgba(127,127,127,.35); background: transparent; cursor: pointer;
-}
-.ghost-btn:hover { border-color: rgba(127,127,127,.6); }
-@media (max-width: 560px) {
-  .contact-list li { grid-template-columns: 1.25rem 5.5rem 1fr; align-items: start; }
-}
-</style>
-
